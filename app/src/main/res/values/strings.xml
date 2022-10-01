@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Guía02 - ListView</string>
+<!--    Botones-->
+    <string name="btn_VerDatos">Ver datos</string>
+
+<!--    Datos Activity-->
+    <string name="tvDesarrollador">Desarrollado por</string>
+    <string name="tvMiNombre">Nombre: Gerardo José Villeda Erazo</string>
+    <string name="tvMiCodigo">Código: VE16-I04-001</string>
+
+<!--    Main Activity-->
+    <string name="tvBienvenida">¡Te damos la Bienvenida!</string>
+    <string name="btnAgregarPersona">Agregar persona</string>
+    <string name="btnMostrarLista">Mostrar Lista</string>
+    <string name="btnMostrarDatos">Mostrar Datos</string>
+
+<!--    Android Manifest Label-->
+    <string name="lblMisDatos">Mis Datos</string>
+    <string name="lblAgregarPersona">Agregar Persona</string>
+    <string name="lblListadoPersonas">Listado de Personas</string>
+
+<!--    Agregar persona Activity-->
+    <string name="tvID">ID:</string>
+    <string name="hintID">Digite el ID de la persona</string>
+    <string name="tvNombre">Nombre:</string>
+    <string name="hintNombre">Digite el nombre de la persona</string>
+    <string name="tvApellido">Apellido:</string>
+    <string name="hintApellido">Digite el apellido de la persona</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="btnCancelar">Cancelar</string>
+
+</resources>
